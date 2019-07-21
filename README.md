@@ -14,3 +14,4 @@ Run `./breach-parse.sh` for instructions
 ### To-Do (Future improvements)
 
 Create auto-installer for alias
+RANDY: bash breach-parse.sh something* something.txt ./data
